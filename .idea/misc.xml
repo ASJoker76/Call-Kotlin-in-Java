@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New Project/test/app/src/main/res/drawable-v24/ic_international_pok_mon_logo.xml" value="0.1305" />
+        <entry key="..\:/New Project/test/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/New Project/test/app/src/main/res/layout/fragment_blank.xml" value="0.18802083333333333" />
+        <entry key="..\:/New Project/test/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.17395833333333333" />
+        <entry key="..\:/New Project/test/app/src/main/res/layout/listitempokemon.xml" value="0.18802083333333333" />
+        <entry key="..\:/New Project/test/app/src/main/res/layout/slide_item_container.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
